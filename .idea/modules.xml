@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ocajp-alura/ocajp-alura.iml" filepath="$PROJECT_DIR$/ocajp-alura/ocajp-alura.iml" />
       <module fileurl="file://$PROJECT_DIR$/ocajp-prep.iml" filepath="$PROJECT_DIR$/ocajp-prep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ocajp-udemy/ocajp-udemy.iml" filepath="$PROJECT_DIR$/ocajp-udemy/ocajp-udemy.iml" />
     </modules>
   </component>
 </project>
