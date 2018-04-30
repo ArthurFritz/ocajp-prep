@@ -1,6 +1,5 @@
 //First and optional package 1..0
-package i.leason.two;
-import java.util.Date;
+package basic.leason.two;
 
 //0..n
 interface A {

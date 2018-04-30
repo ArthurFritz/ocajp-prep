@@ -1,4 +1,4 @@
-package i.leason.four.model;
+package basic.leason.four.model;
 
 public class Util {
     public static final int TAMANHO = 50;

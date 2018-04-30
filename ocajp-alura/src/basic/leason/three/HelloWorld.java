@@ -1,14 +1,14 @@
-package i.leason.three;
+package basic.leason.three;
 
 public class HelloWorld {
 
     //javac HelloWorld.java
-    //java i.leadon.three.HelloWorld
+    //java basic.leadon.three.HelloWorld
     //java -Dpropriedade=Valor HelloWorld
 
     //change classpath use folder location, separate unix (:) and windows (;)
-    //java -cp folder i.leadon.three.HelloWorld
-    //java -classpath folder i.leadon.three.HelloWorld
+    //java -cp folder basic.leadon.three.HelloWorld
+    //java -classpath folder basic.leadon.three.HelloWorld
     public static void main (String[] args){ //String... args, String args[]
         System.out.println("Rodando o programa");
         System.out.println(args.length);

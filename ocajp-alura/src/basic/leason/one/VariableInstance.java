@@ -1,8 +1,4 @@
-package i.leason.one;
-
-import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
-
-import javax.swing.plaf.synth.SynthOptionPaneUI;
+package basic.leason.one;
 
 class Pessoa {
     static int id = 1;

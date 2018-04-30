@@ -1,4 +1,4 @@
-package i.leason.four.model;
+package basic.leason.four.model;
 
 /**
  * set public alow access other package

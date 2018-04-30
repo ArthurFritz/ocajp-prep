@@ -1,4 +1,4 @@
-package i.leason.four;
+package basic.leason.four;
 
 public class Product {
 

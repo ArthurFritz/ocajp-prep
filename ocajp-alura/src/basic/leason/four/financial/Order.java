@@ -1,19 +1,18 @@
-package i.leason.four.financial;
+package basic.leason.four.financial;
 
-import i.leason.four.Product;
-import i.leason.four.model.*;
-//import i.leason.four.model.People;
-//import i.leason.four.model.Address;
+import basic.leason.four.Product;
+import basic.leason.four.model.*;
+//import basic.leason.four.model.People;
+//import basic.leason.four.model.Address;
 // Class in package don't access Class in package default
-import java.util.*;
-//import static i.leason.four.model.Util.TAMANHO;
-//import static i.leason.four.model.Util.maior;
-import static i.leason.four.model.Util.*;
+//import static basic.leason.four.model.Util.TAMANHO;
+//import static basic.leason.four.model.Util.maior;
+import static basic.leason.four.model.Util.*;
 import java.sql.Date;
 
 
 class Order {
-    //i.leason.four.model.People client;
+    //basic.leason.four.model.People client;
     People client;
     Address address;
     //Date dateCreated = new java.util.Date(); Especific importation

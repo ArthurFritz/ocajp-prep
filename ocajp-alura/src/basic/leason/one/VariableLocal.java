@@ -1,4 +1,4 @@
-package i.leason.one;
+package basic.leason.one;
 
 public class VariableLocal {
 
@@ -21,7 +21,7 @@ public class VariableLocal {
         }
         //Fora do escopo
         //System.out.println(j);
-        //System.out.println(i);
+        //System.out.println(basic);
     }
 
 

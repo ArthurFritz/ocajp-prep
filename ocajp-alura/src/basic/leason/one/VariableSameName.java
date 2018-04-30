@@ -1,4 +1,4 @@
-package i.leason.one;
+package basic.leason.one;
 
 class Bla{
     static int a;
