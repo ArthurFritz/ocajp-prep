@@ -43,8 +43,8 @@ public class Wrapper {
         //constructor or valueOf
         Double d21 = new Double(23.7);
         Double d22 = Double.valueOf(23.7);
-        int i30 = Integer.valueOf("23");
-        int i31 = Integer.valueOf("23AF", 16);
+        Integer i30 = Integer.valueOf("23");
+        Integer i31 = Integer.valueOf("23AF", 16);
 
         //primitivo => String
         //toString
